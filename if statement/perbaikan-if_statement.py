@@ -164,5 +164,4 @@ elif pilihan == "4":
 
 # Input tidak valid
 else:
-    print("\nPilihan tidak tersedia.")
-    print("Silakan pilih menu yang telah disediakan.")
+    print("Pilihan tidak ada, ayo pilih yang ada aja.")
